@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF2048" Height="501.291" Width="740.567" MaxHeight="569.5" MinHeight="569.5" MaxWidth="754" MinWidth="754" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid x:Name="grid" HorizontalAlignment="Left" Margin="10,10,0,10" Width="512" Height="512">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Button x:Name="btn_new" Content="New game" HorizontalAlignment="Left" Margin="560,32,0,0" VerticalAlignment="Top" Width="156" Click="btnNew_Click" FontSize="17"/>
+        <Label Content="Score:" HorizontalAlignment="Left" Margin="551,82,0,0" VerticalAlignment="Top" FontSize="17"/>
+        <Label x:Name="lbScore" Content="0" HorizontalAlignment="Left" Margin="615,82,0,0" VerticalAlignment="Top" Width="124" FontSize="17"/>
+        <TextBox HorizontalAlignment="Left" Height="36" Margin="527,472,0,0" TextWrapping="Wrap" Text="Use arrow keys to move blocks." VerticalAlignment="Top" Width="189" IsEnabled="False" BorderBrush="{x:Null}"/>
+    </Grid>
+</Window>

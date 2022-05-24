@@ -1,0 +1,13 @@
+D:\Lerning\WPF2048-master\WPF2048\bin\Debug\WPF2048.exe
+D:\Lerning\WPF2048-master\WPF2048\bin\Debug\WPF2048.pdb
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.csproj.AssemblyReference.cache
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\MainWindow.baml
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\MainWindow.g.cs
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\App.g.cs
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048_MarkupCompile.cache
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.g.resources
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.Properties.Resources.resources
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.csproj.GenerateResource.cache
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.csproj.CoreCompileInputs.cache
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.exe
+D:\Lerning\WPF2048-master\WPF2048\obj\Debug\WPF2048.pdb
